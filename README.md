@@ -1,5 +1,5 @@
 # celery-rabbitmq-client-server
-This is a sample temlplate to begin programming using Celery/RabbitMQ
+This is a sample temlplate to start programming using Celery/RabbitMQ
 
 Please read this tutorial if you want to follow step by step Celery/RabbitMQ installation and configuration:
 
